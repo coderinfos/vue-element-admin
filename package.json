@@ -3,7 +3,7 @@
   "version": "4.2.1",
   "description": "A magical vue admin. An out-of-box UI solution for enterprise applications. Newest development stack of vue. Lots of awesome features",
   "author": "xiaogang <2315631905@qq.com>",
-  "license": "no",
+  "license": "yes",
   "scripts": {
     "dev": "vue-cli-service serve",
     "build:prod": "vue-cli-service build",
